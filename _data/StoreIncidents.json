@@ -296,6 +296,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "genderswap",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Good"
@@ -372,7 +377,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 700,
+		"price": 4500,
 		"karmatype": "Good"
 	},
 	{
@@ -419,17 +424,7 @@
 		"abr": "randomadulthood",
 		"price": 3000,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "sanctuary",
-		"price": 100000,
-		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 85
 }

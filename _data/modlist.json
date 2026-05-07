@@ -366,12 +366,6 @@
     "version": null
   },
   {
-    "author": "Jaxe",
-    "name": "Interaction Bubbles",
-    "steamId": "1516158345",
-    "version": "4.2+22e6c6fce244bc45e278cc012ce945edac7b00b6"
-  },
-  {
     "author": "Linnun",
     "name": "Keep Converting",
     "steamId": "3461478214",
@@ -448,12 +442,6 @@
     "name": "Mono Weapons Pack",
     "steamId": "2997812588",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "LTS",
-    "name": "More Gravship Workbenches",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Arquebus",
@@ -712,12 +700,6 @@
     "name": "Social Experience from Trade",
     "steamId": "3400608063",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "jptrrs",
-    "name": "SpeakUp",
-    "steamId": "2502518544",
-    "version": "0.8"
   },
   {
     "author": "Pretzalcohuatl",
@@ -1200,12 +1182,6 @@
     "version": null
   },
   {
-    "author": "Dracora",
-    "name": "ΩmegaTech",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "SirVan, RedMattis and Alite ect",
     "name": "Dark Ages : Beasts and Monsters",
     "steamId": null,
@@ -1456,6 +1432,12 @@
     "name": "GUILD FACTION ADD-ON - Isekai RPG Leveling",
     "steamId": "3718568958",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Birby",
+    "name": "Isekai RPG Leveling - Character Editor Support",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "ferny",
